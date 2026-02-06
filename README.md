@@ -1,5 +1,5 @@
 # DoBot
-My try at creating Jarvis
+My attempt at creating Jarvis
 ```txt
 ┌──────────────────────────────┐
 │           Usuario            │
